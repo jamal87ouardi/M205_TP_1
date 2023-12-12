@@ -6,4 +6,12 @@
     </style>
 
     <style name="Theme.M205_TP_1" parent="Base.Theme.M205_TP_1" />
+
+    <style name="FFStyle2">
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@color/maCouleur</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+
 </resources>
